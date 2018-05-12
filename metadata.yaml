@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1099
     wikipedia: http://en.wikipedia.org/wiki/James_Elroy_Flecker
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32769#The-Last-Generation--A-Story-of-the-Future
 gutenberg_issued: '2010-06-10'
 gutenberg_type: Text
 identifiers:
