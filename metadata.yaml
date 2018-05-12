@@ -1,0 +1,29 @@
+_repo: The-Last-Generation--A-Story-of-the-Future_32769
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32769-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Flecker, James Elroy
+    birthdate: 1884
+    deathdate: 1915
+    gutenberg_agent_id: '1099'
+    url: http://www.gutenberg.org/2009/agents/1099
+    wikipedia: http://en.wikipedia.org/wiki/James_Elroy_Flecker
+description: ''
+gutenberg_issued: '2010-06-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32769'
+  lccn: '82460338'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Science fiction'
+- !lcsh 'Fantasy fiction'
+title: 'The Last Generation: A Story of the Future'
+url: http://www.gutenberg.org/ebooks/32769
